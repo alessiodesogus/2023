@@ -18,8 +18,9 @@
 <!-- - List the specific research questions you plan to address during the project. This helps to outline the scope and focus of your data analysis. -->
 Here are the specific research questions we plan to address :
 - Is mental health a trends on Youtube ?
-- Which topics predominate in the mental health category. 
-- Is there an impact on new content ? Did old chanels (who were not speaking about mental health) start speaking about (i.e followed the trends) ?
+- Which topics predominate in the mental health category ? 
+- Is there an impact on new content ? 
+- Did old channels (who were not speaking about mental health) start speaking about (i.e followed the trends) ?
 - Can we see an increase (or decrease) in performance (subscribers, views, likes, ...) for channels that speak about mental health ?
 
 
@@ -38,16 +39,16 @@ Methods and techniques divided by each dataset that we intend to use for our ana
 
 ## Proposed Timeline & Internal Milestones (IM) 📅
 
-| Task                         | Start Week | End Week  |
-| -------------------          | ---------- | --------- |
-| Idea Generation              | Week       | Week      |
-| Data Story Context           | Week       | Week      |
-| Data Preprocessing           | Week       | Week      |
-| First Analysis & Results     | Week       | Week      |
-| Comparative Evaluation       | Week       | Week      |
-| Second Analysis & Results    | Week       | Week      |
-| Web Site Implementation      | Week       | Week      |
-| Final Check & Submission     | Week       | Week      |
+| Task                              | Start Week | End Week  |
+| --------------------------------- | ---------- | --------- |
+| Idea Generation                   | Week 1     | Week 6    |
+| Data Story Context                | Week 7     | Week 7    |
+| Data Preprocessing                | Week 7     | Week 8    |
+| First Analysis & Results (IM1)    | Week 8     | Week 9    |
+| Comparative Evaluation            | Week 9     | Week 10   |
+| Second Analysis & Results (IM2)   | Week 10    | Week 13   |
+| Web Site Implementation           | Week 10    | Week 13   |
+| Final Check & Submission (IM3)    | Week 13    | Week 14   |
 
 - Note that between the Week 9 to 11 we'll also have the Homework 2 to work on it. The time will be split between the project and the homework.
 
